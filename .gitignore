@@ -1,0 +1,9 @@
+*.pyc
+*.data
+*.zip
+*.tgz
+*.tar
+*.tar.gz
+*.grib
+*.nc
+cdsapi.egg-info
